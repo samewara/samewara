@@ -11,7 +11,7 @@ Some things about me:
 - 😄 I believe in learn-teach-learn
 - ⚡  I have been Microsoft MVP ASP.NET: 2012, 2013, 2014 & CodeProject MVP: 2011, 2012, 2013, 2014
 - 📚 I have published many articles on CodeProject (and my blog)
-- 🌐 I like digging into data and am active innovation catalyst
+- 🌐 I am an active Innovation catalyst
 
 <br/>
 
