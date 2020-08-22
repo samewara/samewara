@@ -1,16 +1,24 @@
-### Hi there 👋
+###  Hello folks !!! 👋
 
-<!--
-**samewara/samewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome** to my ✨ repository. ✨ 
 
-Here are some ideas to get you started:
+- 🔭 I like data insights and am currently exploring Machine Learning
+- 🌍 I am mostly active within the **CodeProject Community** 
+- 💬 I have worked on building solutions for Web and Desktop applications (doing feasibility study, analysis & implementation, solution deployment)
+- 😄 I believe in learn-teach-learn
+- ⚡  I have been Microsoft MVP ASP.NET: 2012, 2013, 2014 & CodeProject MVP: 2011, 2012, 2013, 2014
+- 📚 I have published many articles on CodeProject (and my blog)
+- 🌐 I like digging into data and am active innovation catalyst
+<p> 
+<a href="https://www.twitter.com/_smewara"><img src="https://img.shields.io/static/v1?label=&message=twitter&?style=flat-square&color=333333&logo=twitter" alt="my-twitter"/></a>
+<a href="https://www.linkedin.com/in/sandeepmewara"><img src="https://img.shields.io/static/v1?label=&message=linkedin&style=flat&color=0077B5&logo=linkedin" alt="my-linkedin"/></a>
+<a href="https://learnbyinsight.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&style=flat&color=red&logo=embarcadero" alt="my-website"/></a>
+<a href="https://www.codeproject.com/Members/Sandeep-Mewara"><img src="https://img.shields.io/static/v1?label=&labelColor=black&message=codeproject&style=flat&color=FFA500&logo=loop" alt="my-website"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![visits Badge](https://badges.pufler.dev/visits/samewara/samewara)](https://badges.pufler.dev/visits/samewara/samewara)
+<a href="https://github.com/samewara?tab=repositories"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a> - Please consider starring the repo if it helped.
+
+
