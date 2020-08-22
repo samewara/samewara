@@ -6,7 +6,7 @@ Welcome to my ✨ repository. ✨
 
 Some things about me:
 - 🔭 I like data insights and am currently exploring Machine Learning
-- 🌍 I am mostly active within the **CodeProject Community** 
+- 🌍 I am mostly active within the CodeProject Community
 - 💬 I have worked on building E2E solutions for Web and Desktop applications
 - 😄 I believe in learn-teach-learn
 - ⚡  I have been Microsoft MVP ASP.NET: 2012, 2013, 2014 & CodeProject MVP: 2011, 2012, 2013, 2014
