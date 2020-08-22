@@ -11,11 +11,11 @@ Some things about me:
 - 😄 I believe in learn-teach-learn
 - ⚡  I have been Microsoft MVP ASP.NET: 2012, 2013, 2014 & CodeProject MVP: 2011, 2012, 2013, 2014
 - 📚 I have published many articles on CodeProject (and my blog)
-- 🌐 I am an active Innovation catalyst
+- 🌐 I am an active Innovation Catalyst
 
 <br/>
 
-**Reach me 📫:**
+**Find me 📫:**
 <p align="left"> 
 <a href="https://www.twitter.com/_smewara"><img src="https://img.shields.io/static/v1?label=&message=twitter&?style=flat-square&color=333333&logo=twitter" alt="my-twitter"/></a>
 <a href="https://www.linkedin.com/in/sandeepmewara"><img src="https://img.shields.io/static/v1?label=&message=linkedin&style=flat&color=0077B5&logo=linkedin" alt="my-linkedin"/></a>
