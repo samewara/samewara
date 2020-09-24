@@ -1,3 +1,5 @@
+## Repository migrated to: https://github.com/sandeep-mewara
+
 ###  Hey everyone, I'm Sandeep Mewara! 👋
 
 [![visits Badge](https://badges.pufler.dev/visits/samewara/samewara)](https://badges.pufler.dev/visits/samewara/samewara)
